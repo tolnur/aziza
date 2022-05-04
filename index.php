@@ -5,7 +5,8 @@
     <meta charset="utf-8">
 </head>
 <body>
-<h1>Введите свои данные:</h1>
+<h1>Nazima
+Введите свои данные:</h1>
 <form action="display.php" method="POST">
     <p>Введите имя: <input type="text" name="firstname" /></p>
     <p>Введите фамилию: <input type="text" name="lastname" /></p>
