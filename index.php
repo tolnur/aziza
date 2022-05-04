@@ -15,6 +15,7 @@
     <textarea name="message" class="form-control"
               class="mb-30" placeholder="Введите ваше сообщение"></textarea><br>
     <button type="submit" name="send" class="btn btn-success">Отправить</button>
+    Загрузка NURGUL
 </form>
 </body>
 </html>
